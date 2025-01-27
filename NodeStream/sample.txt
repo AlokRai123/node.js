@@ -1,0 +1,73 @@
+. Scope of Work
+
+The Institute wishes to upgrade its website www.icsi.edu with renovation of its home page and few additional facilities as mentioned below in the latest versions of the existing platforms.
+
+The expected Scope/deliverables pertaining to www.icsi.edu upgradation is placed below:
+
+Scope/Deliverables:
+1. Vendor should have the facility to provide 24x7x365 access to its online support portal for customers to report any service outage / performance issues. Service Provider must provide 24*7*365 emergency number to reach a support person to solve the issues.
+
+2. Vendor is required to do the following but not limited to:
+Complete comprehensive technical support (like Application database deployment, Maintenance, SSL certification configuration, Database Administration & System Administration and Security Service) as managed services for this website and provide remote access (RDP) to the ICSI technical resource for updating content on Website.
+
+Website pages modification, Application and Database backup & recovery schedule and management.
+
+Test/Stage Server preparation by using the Production Server data time to time as and when required.
+
+Providing support for change management in Application and Database etc.
+
+The source code of the website will be maintained by the vendor. The vendor must provide the updated source code to ICSI periodically and necessarily immediately after any change occurred in the source code or as instructed by the authorized official of the ICSI.
+
+3. Vendor has to provide complete comprehensive technical and maintenance Support of ICSI.edu and other backend APIs including points mentioned below.
+
+a. Content based support.
+b. Error resolution: Errors arising due to incorrect content up-dation.
+c. High Load support during exams results
+d. Database support
+e. Logs and Audit trails support
+f. Cloud inspection for failure assessment periodically
+g. Support for open-source component updates.
+h. Support of OS updates including patches etc.
+i. Support for critical activities.
+j. Live site changes causing site going down or disruption of parts of site.
+k. Quick recovery of the site from the latest backup etc.
+
+4. Critical Support must be provided over weekdays and weekends when required. Vender will be responsible for taking backup of the data of the website on a regular basis and restore the latest backup if required.
+
+5. At present ICSI Website (www.icsi.edu) is hosted and running on Cloud environment, Vendor has to ensure that in case of any Website Services down issue, vendor must run the Website Services of ICSI from another IT Infra either Cloud or ICSI Data Centre Premises by using latest backup data of Website after approval of ICSI Officials. IT Infra provision will be looked after by ICSI.
+
+Category of issue levels.
+
+1. P1-Highest (Customer critical) - ICSI will decide and assign this level where there has been a critical application failure, work-around have been ineffective in addressing the Issue and the issues affects your entire organization and/or numerous individual users. Resolution time: 2-5 hrs
+
+2. P2-High (Individual user, critical) - ICSI will decide and assign this level where there has been a critical function failure, and work-around has been ineffective in addressing the issue and the issue affects an individual user. Resolution time: 5-8 hrs
+
+3. P3-Medium (Individual user, non-urgent)-ICSI will decide and assign this level where there have been problems affecting the efficiency of users, and where work-around may have been effective. Resolution time: 2business days
+
+4. P4-Low-ICSI will decide and assign this level where there have been problems with no adverse impact on processing but may need attention in near future. Resolution time:
+
+Vendor also has to set up a secondary server which will be provided by ICSI that may be used if there is a failure of the primary server. Synchronization of data between primary and secondary server will be managed by the Vendor.
+
+6. For renovation of Website Home Page, the firm will prepare at least 3 (Three) Sample Templates for suggestion/selection/ approval before the start of the development.
+
+7. Upgradation of the existing website platform to latest version. The existing version are placed below:
+
+a. CMS: Name: Customized open source django-cms,
+b. Version: v3.5.2. The CMS of the website is built on MVT (Model View Template) is a software design pattern. Various types of Templates are used on the website for better designing the website. CSS is also used on the website to maintain unique design patterns and easy maintenance of the website.
+c. Database: MySQL (open source), version: 5.7.
+d. MYSQL - Mysql Ver 14.14 Distribution 5.7.33, for Linux (x86_64) using Edit Line wrapper.
+e. Deployment Platform: Ubuntu (open source), Version: 16.04 LTS, Codename: xenial;
+f. Webserver: NGINX as a reverse proxy server, NGINX accelerators content and application delivery, improves security, and facilitates availability and scalability for the busiest websites on the internet. Version: 1.14.0
+g. Application Server: Gunicorn' green unicorn' is a python WSGI HTTP server for UNIX. It's a pre-fork worker model. The Gunicom server is broadly compatible with various frameworks, simply implemented, light on server resources, and fairly speedy. Version: 19.9.0
+ h. Programming Language: Python 2.7.12, PHP 7.0
+i. Web Framework: Django, Version: 1.11
+j. Search: Soir search Version: 7.4.0, Django-haystack, Version: 2.0
+k. NGINX-nginx version nginx/1.10.3 (Ubuntu) 
+I. PHP-PHP 7.0.33-oubuntu0.16.04.16 (cli) (NTS)
+m.  JavaScript Framework: jQuery: v3.2.1, Bootstrap: V3 Font awesome: V4.7.0 Version: 1.0
+n.  Google Analytics Vender has to maintain the Google Analytics globally used throughout the website.
+ o. SSL-Maintenance of already installed SSL certificate in the Nginx Server.
+p. Traffic Management The service on the website runs smoothly during the peak hours also. The total number of estimated unique visitors is around 4 lakhs. Concurrent users during peak load are around 60,000 users observed twice in a year for a period of one hour. (Observed during result publishing activity)
+
+8. Based on the above details mentioned, the existing website has been hosted on cloud
+environment in a local data center,
